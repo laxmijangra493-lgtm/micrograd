@@ -1,4 +1,5 @@
-Kitty fun Cute Kitten Pics, Meme Chat, Funny Cat Wallpaper, Funny Looking Cats, Very Cute Dogs, Silly Cats Pictures, Katze Lustig, Cute Cats Photos, Funny Cat Memes675 x 1200
+![Uploading image.png…]()
+
 
 # Micrograd
 
