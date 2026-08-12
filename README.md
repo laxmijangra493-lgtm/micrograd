@@ -1,4 +1,5 @@
-https://i.pinimg.com/736x/8d/32/d5/8d32d51681bb3a56faa9b2c407f84019.jpg
+<img width="564" height="564" alt="image" src="https://github.com/user-attachments/assets/7b824c2a-5ef5-4c1a-9c0e-7453ae9b3bf3" />
+
 
 # Micrograd
 
