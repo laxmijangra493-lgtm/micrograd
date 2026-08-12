@@ -28,7 +28,7 @@ cd micrograd
 pip install -r requirements.txt
 
 
-(Note: Install graphviz system package if you plan to render computation graphs).
+(Note: Install graphviz system package if you plan to render computation graphs also their was no requirements.txt file do it by yourself😊).
 
 
 ```
