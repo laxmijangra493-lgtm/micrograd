@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+https://i.pinimg.com/736x/8d/32/d5/8d32d51681bb3a56faa9b2c407f84019.jpg
 
 # Micrograd
 
