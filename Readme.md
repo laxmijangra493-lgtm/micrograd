@@ -3,6 +3,8 @@
 
 # MessageGPT
 
+by-the way this was not the message repo I am making it's frontend;
+but you wanted to see my SLM (messageGPT) you can see the file named SLM.py😊
 A lightweight, scalar-valued autograd engine with a PyTorch-like Neural Network API built on top.
 
 This project implements backpropagation over a dynamically constructed Directed Acyclic Graph (DAG) for educational and deep learning foundational research.
