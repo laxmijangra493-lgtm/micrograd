@@ -43,3 +43,6 @@ micrograd/
 ├── requirements.txt
 └── README.md
 
+
+```
+# This is for learning and trying new stuff's if you wanted to get the real SLM.py file and other related to mySLM you can head to my Repo named mesaggeGPT😊
