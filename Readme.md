@@ -1,7 +1,7 @@
 <img width="564" height="564" alt="image" src="https://github.com/user-attachments/assets/7b824c2a-5ef5-4c1a-9c0e-7453ae9b3bf3" />
 
 
-# Micrograd
+# MessageGPT
 
 A lightweight, scalar-valued autograd engine with a PyTorch-like Neural Network API built on top.
 
